@@ -1,11 +1,10 @@
 {
   "title": "Magic the Glyphening",
-  "description": "For bois and gals who enjoy spelling spells. A list of actual, factual cards as well as wizard slang. \n\n To play this mod: Subscribe, Go to Options -> Language -> Typing Language, change it to 'Magic the Glyphening'.",
+  "description": "For bois and gals who enjoy spelling spells. Includes ~15,000 words from Magic cards and lore, as well as several new paragraphs from popular Magic stories. \n\n To play this mod: Subscribe, Go to Options -> Language -> Typing Language, change it to 'Magic the Glyphening'.",
   "descriptionLanguage": "english",
   "visible": true,
   "tags": [
-    "wordlist",
-    "magic the gathering"
+    "wordlist"
   ],
   "baseLanguage": "english"
 }
