@@ -1,6 +1,8 @@
 # Magic: the Glyphening
 ## A community workshop mod for the typing-survival game Glyphica
 
+### ~15,000 words from Magic: the Gathering cards, lore, and slang - at your fingertips.
+
 #### Featuring new Poet paragraphs from the following Magic tales:
 - "Loran's Smile" by Jeff Grubb
 - "Mountain Secret" by Jay Moldenhauer-Salazar
